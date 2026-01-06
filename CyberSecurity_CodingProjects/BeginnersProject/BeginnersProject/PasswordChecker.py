@@ -5,4 +5,5 @@ if(password!=right_password):
         print("Try Again!")
         password = input("Enter your password: ")
 else:
-    print("You entered the right password.")
+     print("You entered the right password.")
+
