@@ -1,17 +1,26 @@
 # 🔐 CyberSecurity Coding Projects Journey
 
-🔗 **Repository:** [Worldofmarvis/CyberSecurity_CodingProjectsJourney](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney)
+**Repository:** [Worldofmarvis/CyberSecurity_CodingProjectsJourney](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney)
 
-| Script | Focus Area | Example Use |
-|--------|------------|--------------|
-| `PasswordChecker.py` | Authentication & Security | Evaluate password strength against common criteria |
-| `SimpleLogin_Verification.py` | Authentication & Security | Demonstrate basic login verification logic |
-| `caesar_decode.py` | Cryptography & Encoding | Implement Caesar cipher decryption |
-| `cryptograph.py` | Cryptography & Encoding | General cryptographic utilities |
-| `hexatobinary.py` | Cryptography & Encoding | Convert hexadecimal strings to binary |
-| `passwordStrengthChecker.py` | Security Tools | Advanced password strength analysis (enhanced) |
-| `Calculator.py` | Foundational | Basic arithmetic operations |
-| `To-dolist.py` | Foundational | Task management script |
+This repository documents my hands-on learning path toward becoming a cybersecurity professional. It contains practical coding projects focused on security concepts, from password strength checking to cryptographic tools. My goal is to build a solid technical foundation while helping fellow aspiring security enthusiasts achieve their own goals.
+
+## 📁 Project List
+
+### Authentication & Security
+- [`PasswordChecker.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/PasswordChecker.py) – Evaluates password strength against common criteria.
+- [`SimpleLogin_Verification.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/SimpleLogin_Verification.py) – Demonstrates basic login verification logic.
+
+### Cryptography & Encoding
+- [`caesar_decode.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/caesar_decode.py) – Implements Caesar cipher decryption.
+- [`cryptograph.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/cryptograph.py) – General cryptographic utilities.
+- [`hexatobinary.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/hexatobinary.py) – Converts hexadecimal strings to binary format.
+
+### Security Tools & Utilities
+- [`passwordStrengthChecker.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/passwordStrengthChecker.py) – Advanced password strength analyzer (enhanced version).
+
+### Simple Coding Projects (Foundational)
+- [`Calculator.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/Calculator.py) – Basic arithmetic operations.
+- [`To-dolist.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/To-dolist.py) – Task management script.
 
 ## 🚀 How to Use
 
