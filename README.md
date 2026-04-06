@@ -7,20 +7,20 @@ This repository documents my hands-on learning path toward becoming a cybersecur
 ## 📁 Project List
 
 ### Authentication & Security
-- [`PasswordChecker.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/PasswordChecker.py) – Evaluates password strength against common criteria.
-- [`SimpleLogin_Verification.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/SimpleLogin_Verification.py) – Demonstrates basic login verification logic.
+- [`PasswordChecker.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/CyberSecurity_CodingProjects/BeginnersProject/BeginnersProject/PasswordChecker.py) – Evaluates password strength against common criteria.
+- [`SimpleLogin_Verification.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/CyberSecurity_CodingProjects/BeginnersProject/BeginnersProject/SimpleLogin_Verification.py) – Demonstrates basic login verification logic.
 
 ### Cryptography & Encoding
-- [`caesar_decode.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/caesar_decode.py) – Implements Caesar cipher decryption.
-- [`cryptograph.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/cryptograph.py) – General cryptographic utilities.
-- [`hexatobinary.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/hexatobinary.py) – Converts hexadecimal strings to binary format.
+- [`caesar_decode.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/CyberSecurity_CodingProjects/BeginnersProject/BeginnersProject/caesar_decode.py) – Implements Caesar cipher decryption.
+- [`cryptograph.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/CyberSecurity_CodingProjects/BeginnersProject/BeginnersProject/cryptograph.py) – General cryptographic utilities.
+- [`hexatobinary.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/CyberSecurity_CodingProjects/BeginnersProject/BeginnersProject/hexatobinary.py) – Converts hexadecimal strings to binary format.
 
 ### Security Tools & Utilities
-- [`passwordStrengthChecker.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/passwordStrengthChecker.py) – Advanced password strength analyzer (enhanced version).
+- [`passwordStrengthChecker.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/CyberSecurity_CodingProjects/BeginnersProject/BeginnersProject/passwordStrengthChecker.py) – Advanced password strength analyzer (enhanced version).
 
 ### Simple Coding Projects (Foundational)
-- [`Calculator.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/Calculator.py) – Basic arithmetic operations.
-- [`To-dolist.py`](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney/blob/main/To-dolist.py) – Task management script.
+- [`Calculator.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/Simple%20Coding%20Projects/Calculator.py) – Basic arithmetic operations.
+- [`To-dolist.py`](https://github.com/Worldofmarvis/Python_CodingProjects/blob/main/Simple%20Coding%20Projects/To-dolist.py) – Task management script.
 
 ## 🚀 How to Use
 
