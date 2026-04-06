@@ -1,5 +1,7 @@
 # 🔐 CyberSecurity Coding Projects Journey
 
+**Repository:** [Worldofmarvis/CyberSecurity_CodingProjectsJourney](https://github.com/Worldofmarvis/CyberSecurity_CodingProjectsJourney)
+
 This repository documents my hands-on learning path toward becoming a cybersecurity professional. It contains practical coding projects focused on security concepts, from password strength checking to cryptographic tools. My goal is to build a solid technical foundation while helping fellow aspiring security enthusiasts achieve their own goals.
 
 ## 📁 Project List
